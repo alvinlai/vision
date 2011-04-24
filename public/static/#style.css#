@@ -1,0 +1,24 @@
+body {
+    font-family: 'Lucida Grande', 'HelveticaNeue', 'Helvetica';
+    font-size: 14px;
+}
+
+h1, h2, h3, h4, h5 { font-family: 'Gill Sans', 'HelveticaNeue' }
+
+#header
+{
+    border-bottom: 2px solid #cccccc;
+}
+
+#menu{float:left; width: 250px; margin-left: 15px;}
+#content{float:left; width: 600px;}
+#footer
+{
+    border-top: 2px solid #cccccc;
+    margin-top: 15px;
+}
+
+.clear{clear:both;}
+.strike{text-decoration:line-through;}
+
+li{margin-bottom:5px;}
